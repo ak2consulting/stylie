@@ -1,0 +1,3 @@
+#Pubsub Pitfalls
+
+I like the [Pubsub](http://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) pattern.  There are a number of small Pubsub libraries available, I'd prefer [MinPubSub](https://github.com/daniellmb/MinPubSub) by Daniel Lamb.  It makes a lot of things easier in a large app, and it can help keep your code manageable and readable.  I've used it in the past on projects and it usually works out pretty well.  I recently tried using it in Stylie, and ran into some issues.
